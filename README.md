@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi, My name is Oubeid Mezni.👋</h1>
 
 ###
 
-<p align="left">Hi, My name is Oubeid Mezni. Everyday, I make sure that I pushed myself a little further</p>
+<p align="left">Every day, I make sure that I push myself a little further</p>
 
 ###
 
